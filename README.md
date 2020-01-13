@@ -1,5 +1,9 @@
 # NodeJS + Typescript Starter Kit
 
+<p align="center">
+    <img src="https://miro.medium.com/max/600/1*ZZRtwzUVGyBkfkKurbHjwg.png">
+</p>
+
 ## What is this
 
 A minimal template for NodeJS + Typescript. Useful for creating quick scripts!
